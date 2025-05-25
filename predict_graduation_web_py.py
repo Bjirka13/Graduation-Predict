@@ -14,8 +14,6 @@ Original file is located at
 # import streamlit as st
 
 import pandas as pd
-import matplotlib as plt
-import seaborn as sns
 from joblib import load
 
 """## Load dataset dan Model"""
