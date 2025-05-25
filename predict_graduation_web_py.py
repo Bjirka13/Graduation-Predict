@@ -141,6 +141,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-!streamlit run Predict_Graduation-Web.py & npx localtunnel --port 8501
-
