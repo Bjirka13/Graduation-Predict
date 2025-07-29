@@ -43,8 +43,9 @@ Graduation-Predict/
 
 ### Model terbaik berdasarkan hasil evaluasi: **XGBClassifier"" dengan akurasi 95.36%. Selain itu, nilai metriks evaluasi model tersebut
 lebih stabil dibandingkan model yang lain:
-Report: 
 
+````
+Report: 
                precision    recall  f1-score   support
 
            0       0.91      0.91      0.91       320
@@ -53,6 +54,7 @@ Report:
     accuracy                           0.95      1250
    macro avg       0.94      0.94      0.94      1250
 weighted avg       0.95      0.95      0.95      1250
+````
 
 ## Penanganan Data
 
